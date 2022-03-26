@@ -117,13 +117,13 @@ input, select, textarea {
 /* Typography */
 
 	html {
-		font-size: 18pt;
+		font-size: 20pt;
 	}
 
 		@media screen and (max-width: 1920px) {
 
 			html {
-				font-size: 13pt;
+				font-size: 15pt;
 			}
 
 		}
@@ -131,7 +131,7 @@ input, select, textarea {
 		@media screen and (max-width: 1152px) {
 
 			html {
-				font-size: 14pt;
+				font-size: 16pt;
 			}
 
 		}
@@ -139,7 +139,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 14pt;
 			}
 
 		}
@@ -147,7 +147,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			html {
-				font-size: 11pt;
+				font-size: 13pt;
 			}
 
 		}
